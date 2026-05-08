@@ -40,5 +40,3 @@ The provided dataset, "blogs_categories.csv", consists of blog posts along with 
 •	Depth and insightfulness of the sentiment analysis.
 •	Clarity and thoroughness of the evaluation and discussion sections.
 •	Overall quality and organization of the report and code.
-
-Good luck, and we look forward to your insightful analysis of the blog posts dataset!
